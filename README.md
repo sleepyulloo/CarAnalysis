@@ -55,5 +55,4 @@ python CarAnalysis.py
 ## Dataset
 
 The [UCI Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset) 
-contains 205 vehicles with attributes covering make, body style, fuel type, and other categories 
-MPG, and price.
+contains 205 vehicles with attributes covering make, body style, fuel type, MPG, and price.
